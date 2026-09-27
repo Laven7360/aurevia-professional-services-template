@@ -66,7 +66,7 @@ export default function About() {
           </Reveal>
           <Reveal className="about-statement" delay={100}>
             <span className="about-small-label">From perspective to progress</span>
-            <EditorialPhoto src={leadershipMeeting} alt="Three professionals exchanging perspectives during an office conversation" width={1100} height={734} className="editorial-photo--perspective" caption="Connecting the wider picture" />
+            <EditorialPhoto src={leadershipMeeting} alt="Two colleagues reviewing a folder and business documents together in an office" width={1100} height={733} className="editorial-photo--perspective" caption="Connecting the wider picture" />
             <p>The objective is not more analysis.<em>It is better-informed action.</em></p>
             <span className="about-statement-rule" aria-hidden="true" />
           </Reveal>

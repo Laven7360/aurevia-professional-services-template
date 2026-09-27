@@ -53,7 +53,7 @@ export default function Services() {
         <div className="container services-intro-grid">
           <Reveal><p className="eyebrow">Advisory, Connected</p><h2 id="services-intro-heading">Business challenges rarely fit neatly into one category.</h2></Reveal>
           <Reveal delay={80}><div className="services-body"><p>Strategy affects finance. Growth creates operational demands. Transformation introduces risk. The most useful advice considers these connections rather than treating every challenge in isolation.</p><p>Our services are designed to work independently or together, depending on the question in front of the client.</p></div><p className="services-intro-statement">One question can involve several perspectives.<em>Our job is to connect them.</em></p></Reveal>
-          <Reveal className="services-workshop-photo"><EditorialPhoto src={strategyDiscussion} alt="Colleagues discussing ideas around a table beside a wall of planning notes" width={1100} height={733} className="editorial-photo--wide" caption="Independent perspectives. Connected advisory." /></Reveal>
+          <Reveal className="services-workshop-photo"><EditorialPhoto src={strategyDiscussion} alt="Four colleagues reviewing information together around laptops at an office table" width={1000} height={667} className="editorial-photo--wide" caption="Independent perspectives. Connected advisory." /></Reveal>
         </div>
       </section>
 

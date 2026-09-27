@@ -65,7 +65,7 @@ export default function Home() {
         <Reveal className="hero-art-wrap" delay={100}>
           <div className="hero-art hero-art--photography">
             <div className="art-topline"><span>Aurevia / Perspectives</span><span>No. 01</span></div>
-            <EditorialPhoto src={advisoryMeeting} alt="Four professionals discussing business around a low meeting table" width={1000} height={1500} priority className="editorial-photo--hero" caption="Strategy • Finance • Risk • Transformation" />
+            <EditorialPhoto src={advisoryMeeting} alt="Four colleagues reviewing documents and discussing priorities around a boardroom table" width={1000} height={1333} priority className="editorial-photo--hero" caption="Strategy • Finance • Risk • Transformation" />
             <div className="art-caption"><span>See the whole picture.</span><span>Find the way forward.</span></div>
             <div className="art-bottomline"><span>Independent thinking</span><span>KL / MY</span></div>
           </div>
@@ -93,7 +93,7 @@ export default function Home() {
         </Reveal>
         <Reveal delay={100}>
           <div className="home-perspective-photo">
-            <EditorialPhoto src={clientConsultation} alt="Three business professionals listening and talking in a focused office discussion" width={1100} height={734} caption="A considered perspective / 01" />
+            <EditorialPhoto src={clientConsultation} alt="Two professionals discussing an open notebook and laptop at a meeting table" width={1100} height={733} caption="A considered perspective / 01" />
           <div className="about-panel about-panel--photography">
             <span className="panel-index">A considered perspective / 01</span>
             <span className="panel-monogram" aria-hidden="true">A</span>
