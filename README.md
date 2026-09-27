@@ -2,6 +2,10 @@
 
 A fictional professional-services portfolio template built with React, Vite and React Router. Includes Home, About, Services, Insights, Contact and a shared-layout 404 page.
 
+## Live Demo
+
+[View Live Demo](https://aurevia-professional-services-templ.vercel.app/)
+
 ## Developer enquiries
 
 Created by **Laven Raj** as part of a freelance web-development portfolio. Aurevia Advisory is fictional; its `hello@aurevia.example` address represents the demo business only.
